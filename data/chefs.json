@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "img": "https://img.freepik.com/premium-photo/photo-smiling-male-chief-white-uniform-holding-plate-with-meal_171337-65294.jpg",
+      "displayName": "John Doe",
+      "yearsOfExperience": 2,
+      "numberOfRecipes": 17,
+      "likes": 120
+    },
+    {
+      "id": 2,
+      "img": "https://megainterview.com/wp-content/uploads/2023/03/What-Does-a-Chief-Cook-Do.jpeg",
+      "displayName": "Jane Smith",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 20,
+      "likes": 90
+    },
+    {
+      "id": 3,
+      "img": "https://calibreworkforce.com.au/wp-content/uploads/2017/08/male-chef.jpg",
+      "displayName": "Alice Johnson",
+      "yearsOfExperience": 3,
+      "numberOfRecipes": 19,
+      "likes": 100
+    },
+    {
+      "id": 4,
+      "img": "https://static.vecteezy.com/system/resources/previews/028/632/990/non_2x/handsome-master-chef-toque-generate-ai-photo.jpg",
+      "displayName": "Bob Brown",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 22,
+      "likes": 140
+    },
+    {
+      "id": 5,
+      "img": "https://static.vecteezy.com/system/resources/previews/029/632/924/non_2x/closeup-shot-of-smiling-handsome-young-italian-american-chef-in-white-uniform-standing-looking-at-camera-behind-restaurant-blurred-food-free-photo.jpeg",
+      "displayName": "Emily Davis",
+      "yearsOfExperience": 4,
+      "numberOfRecipes": 18,
+      "likes": 110
+    },
+    {
+      "id": 6,
+      "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-10/23/full/1477246396-5339.jpg",
+      "displayName": "Michael Wilson",
+      "yearsOfExperience": 6,
+      "numberOfRecipes": 21,
+      "likes": 130
+    },
+    {
+      "id": 7,
+      "img": "https://i.pinimg.com/originals/e9/40/7a/e9407ac3236411d0278a46d6f1271bc0.jpg",
+      "displayName": "Willium Martinez",
+      "yearsOfExperience": 7,
+      "numberOfRecipes": 16,
+      "likes": 85
+    },
+    {
+      "id": 8,
+      "img": "https://t3.ftcdn.net/jpg/02/65/16/18/360_F_265161867_nUORzZ1sfwADG6RoOsCPdf81KKYQdD3G.jpg",
+      "displayName": "David Taylor",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 23,
+      "likes": 150
+    }
+  ]
+  
