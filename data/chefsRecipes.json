@@ -1,0 +1,283 @@
+[
+    {
+      "id": 1,
+      "img": "https://img.freepik.com/premium-photo/photo-smiling-male-chief-white-uniform-holding-plate-with-meal_171337-65294.jpg",
+      "displayName": "John Doe",
+      "yearsOfExperience": 2,
+      "numberOfRecipes": 17,
+      "likes": 120,
+      "description": "John Doe is a passionate chef with a flair for Italian cuisine. With 2 years of culinary experience, he brings creativity and innovation to every dish he creates.",
+      "recipes": [
+        {
+          "recipeName": "Pasta Carbonara",
+          "cookingMethod": "Boiling, Sauteing",
+          "rating": 4.5,
+          "ingredients": ["Spaghetti", "Bacon", "Eggs", "Parmesan Cheese", "Black Pepper"]
+        },
+        {
+          "recipeName": "Grilled Salmon",
+          "cookingMethod": "Grilling",
+          "rating": 4.2,
+          "ingredients": ["Salmon Fillets", "Lemon", "Olive Oil", "Salt", "Black Pepper"]
+        },
+        {
+          "recipeName": "Tiramisu",
+          "cookingMethod": "Assembling, Chilling",
+          "rating": 4.7,
+          "ingredients": ["Ladyfingers", "Espresso", "Mascarpone Cheese", "Eggs", "Cocoa Powder"]
+        },
+        {
+          "recipeName": "Margherita Pizza",
+          "cookingMethod": "Baking",
+          "rating": 4.8,
+          "ingredients": ["Pizza Dough", "Tomato Sauce", "Fresh Mozzarella", "Basil Leaves", "Olive Oil"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://megainterview.com/wp-content/uploads/2023/03/What-Does-a-Chief-Cook-Do.jpeg",
+      "displayName": "Jane Smith",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 20,
+      "likes": 90,
+      "description": "With 5 years of culinary experience, Jane Smith is known for her innovative approach to fusion cuisine. Her passion for blending flavors from around the world shines through in every dish she creates.",
+      "recipes": [
+        {
+          "recipeName": "Sushi Burrito",
+          "cookingMethod": "Rolling, Slicing",
+          "rating": 4.6,
+          "ingredients": ["Sushi Rice", "Nori Seaweed", "Assorted Fish", "Avocado", "Cucumber"]
+        },
+        {
+          "recipeName": "Thai Red Curry",
+          "cookingMethod": "Simmering",
+          "rating": 4.4,
+          "ingredients": ["Chicken", "Coconut Milk", "Red Curry Paste", "Bell Peppers", "Thai Basil"]
+        },
+        {
+          "recipeName": "Mango Sticky Rice",
+          "cookingMethod": "Steaming",
+          "rating": 4.7,
+          "ingredients": ["Sticky Rice", "Mango", "Coconut Milk", "Sugar", "Sesame Seeds"]
+        },
+        {
+          "recipeName": "Caprese Salad",
+          "cookingMethod": "Assembling",
+          "rating": 4.5,
+          "ingredients": ["Tomatoes", "Fresh Mozzarella", "Basil Leaves", "Balsamic Glaze", "Extra Virgin Olive Oil"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://calibreworkforce.com.au/wp-content/uploads/2017/08/male-chef.jpg",
+      "displayName": "Alice Johnson",
+      "yearsOfExperience": 3,
+      "numberOfRecipes": 19,
+      "likes": 100,
+      "description": "Alice Johnson is a skilled chef with 3 years of experience in the culinary industry. Her love for seasonal ingredients and traditional cooking techniques results in dishes that are both comforting and delicious.",
+      "recipes": [
+        {
+          "recipeName": "Chicken Alfredo",
+          "cookingMethod": "Sauteing, Simmering",
+          "rating": 4.3,
+          "ingredients": ["Fettuccine Pasta", "Chicken Breast", "Heavy Cream", "Parmesan Cheese", "Garlic"]
+        },
+        {
+          "recipeName": "Beef Stroganoff",
+          "cookingMethod": "Browning, Simmering",
+          "rating": 4.6,
+          "ingredients": ["Beef Sirloin", "Onion", "Mushrooms", "Sour Cream", "Dijon Mustard"]
+        },
+        {
+          "recipeName": "Chocolate Lava Cake",
+          "cookingMethod": "Baking",
+          "rating": 4.8,
+          "ingredients": ["Chocolate", "Butter", "Eggs", "Sugar", "Flour"]
+        },
+        {
+          "recipeName": "Greek Salad",
+          "cookingMethod": "Assembling",
+          "rating": 4.4,
+          "ingredients": ["Cucumbers", "Tomatoes", "Red Onion", "Kalamata Olives", "Feta Cheese"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "https://static.vecteezy.com/system/resources/previews/028/632/990/non_2x/handsome-master-chef-toque-generate-ai-photo.jpg",
+      "displayName": "Bob Brown",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 22,
+      "likes": 140,
+      "description": "With 8 years of experience under his belt, Bob Brown is a seasoned chef known for his expertise in traditional French cuisine. His attention to detail and commitment to quality shine in every dish he prepares.",
+      "recipes": [
+        {
+          "recipeName": "Coq au Vin",
+          "cookingMethod": "Braising",
+          "rating": 4.7,
+          "ingredients": ["Chicken", "Bacon", "Red Wine", "Mushrooms", "Pearl Onions"]
+        },
+        {
+          "recipeName": "Ratatouille",
+          "cookingMethod": "Sauteing, Baking",
+          "rating": 4.5,
+          "ingredients": ["Eggplant", "Zucchini", "Bell Peppers", "Tomatoes", "Garlic"]
+        },
+        {
+          "recipeName": "Creme Brulee",
+          "cookingMethod": "Baking, Broiling",
+          "rating": 4.9,
+          "ingredients": ["Heavy Cream", "Egg Yolks", "Sugar", "Vanilla Bean", "Turbinado Sugar"]
+        },
+        {
+          "recipeName": "French Onion Soup",
+          "cookingMethod": "Caramelizing, Simmering",
+          "rating": 4.6,
+          "ingredients": ["Onions", "Beef Broth", "Baguette", "Gruyere Cheese", "Butter"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://static.vecteezy.com/system/resources/previews/029/632/924/non_2x/closeup-shot-of-smiling-handsome-young-italian-american-chef-in-white-uniform-standing-looking-at-camera-behind-restaurant-blurred-food-free-photo.jpeg",
+      "displayName": "Emily Davis",
+      "yearsOfExperience": 4,
+      "numberOfRecipes": 18,
+      "likes": 110,
+      "description": "Emily Davis brings 4 years of culinary experience and a passion for farm-to-table cooking. Her dedication to using fresh, locally sourced ingredients ensures that each dish bursts with flavor and vitality.",
+      "recipes": [
+        {
+          "recipeName": "Avocado Toast",
+          "cookingMethod": "Toasting, Mashing",
+          "rating": 4.5,
+          "ingredients": ["Avocado", "Whole Grain Bread", "Lemon Juice", "Salt", "Red Pepper Flakes"]
+        },
+        {
+          "recipeName": "Vegetable Stir Fry",
+          "cookingMethod": "Stir-Frying",
+          "rating": 4.3,
+          "ingredients": ["Broccoli", "Bell Peppers", "Carrots", "Snap Peas", "Soy Sauce"]
+        },
+        {
+          "recipeName": "Berry Smoothie Bowl",
+          "cookingMethod": "Blending, Topping",
+          "rating": 4.7,
+          "ingredients": ["Mixed Berries", "Banana", "Almond Milk", "Granola", "Chia Seeds"]
+        },
+        {
+          "recipeName": "Quinoa Salad",
+          "cookingMethod": "Cooking, Mixing",
+          "rating": 4.6,
+          "ingredients": ["Quinoa", "Cucumber", "Cherry Tomatoes", "Red Onion", "Feta Cheese"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-10/23/full/1477246396-5339.jpg",
+      "displayName": "Michael Wilson",
+      "yearsOfExperience": 6,
+      "numberOfRecipes": 21,
+      "likes": 130,
+      "description": "Michael Wilson is a talented chef with 6 years of experience in the culinary world. His diverse culinary background and passion for experimentation result in innovative dishes that never fail to impress.",
+      "recipes": [
+        {
+          "recipeName": "Lemon Garlic Shrimp Pasta",
+          "cookingMethod": "Boiling, Sauteing",
+          "rating": 4.8,
+          "ingredients": ["Shrimp", "Linguine Pasta", "Garlic", "Lemon", "Parmesan Cheese"]
+        },
+        {
+          "recipeName": "BBQ Pulled Pork Sandwiches",
+          "cookingMethod": "Slow Cooking, Shredding",
+          "rating": 4.7,
+          "ingredients": ["Pork Shoulder", "BBQ Sauce", "Buns", "Coleslaw", "Pickles"]
+        },
+        {
+          "recipeName": "Crispy Baked Chicken Wings",
+          "cookingMethod": "Baking",
+          "rating": 4.6,
+          "ingredients": ["Chicken Wings", "Flour", "Baking Powder", "Salt", "BBQ Sauce"]
+        },
+        {
+          "recipeName": "Vegetarian Chili",
+          "cookingMethod": "Simmering",
+          "rating": 4.5,
+          "ingredients": ["Kidney Beans", "Black Beans", "Tomatoes", "Bell Peppers", "Chili Powder"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "https://i.pinimg.com/originals/e9/40/7a/e9407ac3236411d0278a46d6f1271bc0.jpg",
+      "displayName": "Willium Martinez",
+      "yearsOfExperience": 7,
+      "numberOfRecipes": 16,
+      "likes": 85,
+      "description": "With 7 years of experience, Willium Martinez is a versatile chef known for his mastery of both traditional and modern cooking techniques. His dedication to excellence shines in every dish he creates.",
+      "recipes": [
+        {
+          "recipeName": "Beef Tacos",
+          "cookingMethod": "Grilling, Assembling",
+          "rating": 4.4,
+          "ingredients": ["Flank Steak", "Tortillas", "Salsa", "Guacamole", "Cilantro"]
+        },
+        {
+          "recipeName": "Chicken Fajitas",
+          "cookingMethod": "Sauteing, Assembling",
+          "rating": 4.3,
+          "ingredients": ["Chicken Breast", "Bell Peppers", "Onion", "Tortillas", "Sour Cream"]
+        },
+        {
+          "recipeName": "Shrimp Ceviche",
+          "cookingMethod": "Marinating",
+          "rating": 4.5,
+          "ingredients": ["Shrimp", "Lime Juice", "Tomato", "Cucumber", "Avocado"]
+        },
+        {
+          "recipeName": "Guacamole",
+          "cookingMethod": "Mashing, Mixing",
+          "rating": 4.6,
+          "ingredients": ["Avocado", "Tomato", "Onion", "Cilantro", "Lime Juice"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "img": "https://t3.ftcdn.net/jpg/02/65/16/18/360_F_265161867_nUORzZ1sfwADG6RoOsCPdf81KKYQdD3G.jpg",
+      "displayName": "David Taylor",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 23,
+      "likes": 150,
+      "description": "David Taylor is a seasoned chef with 10 years of experience in the culinary industry. His culinary expertise spans a wide range of cuisines, and his commitment to perfection ensures that every dish is a masterpiece.",
+      "recipes": [
+        {
+          "recipeName": "Steak au Poivre",
+          "cookingMethod": "Pan-Searing, Sauce Reduction",
+          "rating": 4.8,
+          "ingredients": ["Filet Mignon", "Peppercorns", "Brandy", "Heavy Cream", "Butter"]
+        },
+        {
+          "recipeName": "Lobster Bisque",
+          "cookingMethod": "Simmering, Blending",
+          "rating": 4.7,
+          "ingredients": ["Lobster", "Shallots", "Tomato Paste", "Heavy Cream", "Brandy"]
+        },
+        {
+          "recipeName": "Beef Wellington",
+          "cookingMethod": "Searing, Baking",
+          "rating": 4.9,
+          "ingredients": ["Beef Tenderloin", "Mushrooms", "Puff Pastry", "Foie Gras", "Duxelles"]
+        },
+        {
+          "recipeName": "Crème Fraîche Cheesecake",
+          "cookingMethod": "Baking, Chilling",
+          "rating": 4.6,
+          "ingredients": ["Cream Cheese", "Crème Fraîche", "Eggs", "Sugar", "Vanilla Extract"]
+        }
+      ]
+    }
+  ]
+  
