@@ -10,7 +10,7 @@ app.use(cors())
 
 app.get('/', (req, res) => {
  
-    res.send("Welcome to chefs' web server");
+    res.send("Welcome to chefs' web server!");
 
 })
 
